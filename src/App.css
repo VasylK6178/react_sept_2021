@@ -1,0 +1,18 @@
+.Apper {
+    display: flex;
+    justify-content: space-evenly;
+}
+.First {
+    width: 400px;
+}
+.Second {
+      width: 425px;
+    font-size: 10px;
+}
+.Third{
+    font-size: 10px;
+}
+
+hr{
+    margin: 0;
+}
